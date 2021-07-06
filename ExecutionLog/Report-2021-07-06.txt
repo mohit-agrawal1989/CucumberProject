@@ -1,0 +1,32 @@
+
+*****************************************************************************
+Jul 06,2021 18:29:41 [info]  User perform login and verify homepage
+*****************************************************************************
+Jul 06,2021 18:30:00 [info]  Entered username as :testerqa
+Jul 06,2021 18:30:01 [info]  Entered password as :Indium@123
+Jul 06,2021 18:30:01 [info]  Click on login button
+Jul 06,2021 18:30:06 [info]  Verfiy login is successful.
+
+*****************************************************************************
+Jul 06,2021 18:30:35 [info]  User perform login and verify homepage
+*****************************************************************************
+Jul 06,2021 18:30:49 [info]  Entered username as :testerqa
+Jul 06,2021 18:30:50 [info]  Entered password as :Indium@123
+Jul 06,2021 18:30:50 [info]  Click on login button
+Jul 06,2021 18:30:53 [info]  Verfiy login is successful.
+
+*****************************************************************************
+Jul 06,2021 18:32:41 [info]  User perform login and verify homepage
+*****************************************************************************
+Jul 06,2021 18:32:56 [info]  Entered username as :testerqa
+Jul 06,2021 18:32:56 [info]  Entered password as :Indium@123
+Jul 06,2021 18:32:56 [info]  Click on login button
+Jul 06,2021 18:32:59 [info]  Verfiy login is successful.
+
+*****************************************************************************
+Jul 06,2021 18:34:40 [info]  User perform login and verify homepage
+*****************************************************************************
+Jul 06,2021 18:34:51 [info]  Entered username as :testerqa
+Jul 06,2021 18:34:52 [info]  Entered password as :Indium@123
+Jul 06,2021 18:34:52 [info]  Click on login button
+Jul 06,2021 18:34:55 [info]  Verfiy login is successful.
